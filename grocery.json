@@ -1,0 +1,82 @@
+[
+    {
+        "SNo": 1,
+        "Name": "Cookies",
+        "Quantity": 2,
+        "Unit": "packet",
+        "Department": "Bakery",
+        "Notes": "Choclate"
+    },
+    {
+        "SNo": 2,
+        "Name": "Chicken",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Non veg",
+        "Notes": "fresh"
+    },
+    {
+        "SNo": 3,
+        "Name": "Bread",
+        "Quantity": 2,
+        "Unit": "packet",
+        "Department": "Bakery",
+        "Notes": "Wheat"
+    },
+    {
+        "SNo": 4,
+        "Name": "Potato",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": " Vegetables",
+        "Notes": "sweet"
+    },
+    {
+        "SNo": 5,
+        "Name": "Tomatoes",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 6,
+        "Name": "Tuna",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Non veg",
+        "Notes": "None"
+    },
+    {
+        "SNo": 7,
+        "Name": "Chips",
+        "Quantity": 4,
+        "Unit": "packet",
+        "Department": "Bakery",
+        "Notes": "Potato"
+    },
+    {
+        "SNo": 8,
+        "Name": "Juice",
+        "Quantity": 500,
+        "Unit": "ml",
+        "Department": "Drink",
+        "Notes": "Mango"
+    },
+    {
+        "SNo": 9,
+        "Name": "Cabbage",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 10,
+        "Name": "Banana",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Fruits",
+        "Notes": "None"
+    }
+]
